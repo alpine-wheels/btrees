@@ -1,1 +1,1 @@
-btrees==5.1
+btrees==5.2
